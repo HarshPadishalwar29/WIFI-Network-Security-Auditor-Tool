@@ -23,11 +23,6 @@ This tool helps users check network interfaces, scan nearby WiFi access points, 
 
 ---
 
-## 📷 Demo (Screenshot Placeholder)
-> Add your terminal screenshot here later
-
----
-
 ## 🛠️ Requirements
 
 | Component | Requirement |
@@ -39,6 +34,5 @@ Run as root | Yes (`sudo python3 wifi_auditor.py`)
 
 ---
 
-## 📂 Folder Structure
 
 
