@@ -62,6 +62,7 @@ Bash utilities | System-level commands
 5. Security Recommendations
 6. About This Tool
 7. Exit
+
 ==================================================
 
 ---
